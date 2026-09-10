@@ -157,6 +157,8 @@ For example, when the stack is empty, the application shows an empty-stack messa
 &#x20; ))
 
 )}
+
+
 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
 
